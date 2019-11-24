@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchList renders properly 1`] = `
+<div>
+  <div
+    class="sc-gqjmRU iiGbTV"
+  >
+    <div
+      class="sc-VigVT gEhZuK"
+    >
+      <a
+        class="sc-jTzLTM cLJNlm"
+      >
+        <icon
+          iconname="Search"
+        />
+      </a>
+      <div
+        class="sc-dnqmqq ihJJte"
+      >
+        <div
+          class="sc-ifAKCX bDiBLt"
+        >
+          <input
+            aria-label=""
+            aria-required="false"
+            autocomplete="off"
+            data-required="false"
+            data-test-id="search-input"
+            data-testid="search-input"
+            id="search-input"
+            name="search-input"
+            placeholder=""
+            tabindex="0"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

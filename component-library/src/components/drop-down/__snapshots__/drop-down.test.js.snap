@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropDown invoking withStateHandlers successfully 1`] = `ShallowWrapper {}`;
+
+exports[`DropDown renders properly 1`] = `ShallowWrapper {}`;

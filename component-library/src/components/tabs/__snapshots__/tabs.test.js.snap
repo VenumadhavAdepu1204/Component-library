@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing tab component renders properly 1`] = `
+<div
+  class="sc-bdVaJa jboVGq"
+>
+  <ul
+    class="sc-bwzfXH fORQjs"
+  >
+    <li
+      class="sc-ifAKCX jwJMkm"
+      data-testid="one"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        one
+         
+      </div>
+    </li>
+    <li
+      class="sc-ifAKCX jwJMkm"
+      data-testid="two"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        two
+         
+      </div>
+    </li>
+    <li
+      class="sc-ifAKCX jwJMkm"
+      data-testid="three"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        three
+         
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`testing tab component renders properly with border and background props 1`] = `
+<div
+  class="sc-bdVaJa jboVGq"
+>
+  <ul
+    class="sc-bwzfXH fORQjs"
+  >
+    <li
+      class="sc-ifAKCX hQOquv"
+      data-testid="one"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        one
+         
+      </div>
+    </li>
+    <li
+      class="sc-ifAKCX jwJMkm"
+      data-testid="two"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        two
+         
+      </div>
+    </li>
+    <li
+      class="sc-ifAKCX jwJMkm"
+      data-testid="three"
+      tabindex="0"
+    >
+      <div
+        class="sc-bxivhb eBNJKg"
+      >
+        three
+         
+      </div>
+    </li>
+  </ul>
+  <div
+    class="sc-htpNat kEjdxC"
+  >
+    one
+  </div>
+</div>
+`;
